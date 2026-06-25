@@ -1,18 +1,18 @@
 {
   "expo": {
-    "name": "SAA",
-    "slug": "saa-mobile-application-v0",
+    "name": "SAA Admin",
+    "slug": "saa-admin-mobile-application-v0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "saa-mobile-application-v0",
+    "scheme": "saa-admin-mobile-application-v0",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "package": "com.sliet.alumni",
+      "package": "com.thebipu.saaadminmobileapplicationv0",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png"
       },
@@ -46,7 +46,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "5cf3a493-00e0-41d7-8eaa-ff263a86512b"
+        "projectId": "9cd63406-d69d-4bb6-b86d-09b02b547500"
       }
     }
   }

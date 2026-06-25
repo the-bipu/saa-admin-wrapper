@@ -6,7 +6,7 @@ export default function App() {
     <SafeAreaView style={{ flex: 1 }}>
       <WebView
         source={{
-          uri: "https://www.admin.slietalumni.in/",
+          uri: "https://admin.slietalumni.in/",
         }}
         style={{ flex: 1 }}
       />
